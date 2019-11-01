@@ -1,0 +1,5 @@
+[1030/154415.763:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1030/155348.889:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1030/155728.611:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1031/110604.046:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1031/125101.635:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
