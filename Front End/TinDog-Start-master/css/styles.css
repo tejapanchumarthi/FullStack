@@ -1,0 +1,136 @@
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+h1{
+  font-family: "Montserrat-black ";
+  font-size: 3rem;
+  padding-right: 20rem;
+  padding-bottom: 2rem;
+}
+h2{
+  font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+p{
+  color: grey;
+}
+#title{
+  color: #fff ;
+  background-color: #ff4c68;
+  padding: 3% 15%;
+  line-height: 1.5;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.right{
+  padding: 10rem;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.i{
+  margin: 2% 3% 2% 0;
+  text-align: center;
+}
+#footer{
+  text-align: center;
+}
+
+.h3{
+  padding: 50px;
+}
+#cta{
+  padding:0 70px 60px;
+color: #fff;
+}
+
+#testimonials{
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+}
+.testimonial-image{
+width: 10%;
+  border-radius: 50%;
+margin: 20px;
+width: 260px;
+
+}
+.carousel-item{
+  padding:7% 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.cards{
+  padding: 3% 2%;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68
+}
+
+.navbar-brand{
+  padding-top: 2.5rem;
+font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%
+  z-index: 1;
+}
+.nav-link{
+  font-size: 1.2rem;
+  /*font-family: "Montserrat-Light"*/
+}
+.btn{
+padding: 0 40px;
+}
+.row{
+  padding-top: 4.5rem;
+}
+.card{
+  padding-right:3% 2%;
+
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.1rem;
+}
+#features{
+  padding: 3% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
